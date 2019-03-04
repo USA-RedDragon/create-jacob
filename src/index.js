@@ -1,3 +1,3 @@
-const require = require('esm')(module);
+require = require('esm')(module);
 
 module.exports = require('./main');
