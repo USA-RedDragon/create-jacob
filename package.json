@@ -1,10 +1,10 @@
 {
-  "name": "create-jacob-app",
+  "name": "create-jacob",
   "version": "1.0.11",
   "main": "src/index.js",
   "module": "src/main.js",
   "bin": {
-    "create-jacob-app": "src/index.js"
+    "create-jacob": "src/index.js"
   },
   "scripts": {
     "start": "npm run start:dev",
@@ -19,10 +19,10 @@
     "test": "nyc mocha test/**/*.js test/*.js"
   },
   "keywords": [],
-  "homepage": "https://github.com/USA-RedDragon/create-jacob-app#readme",
+  "homepage": "https://github.com/USA-RedDragon/create-jacob#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/USA-RedDragon/create-jacob-app.git"
+    "url": "https://github.com/USA-RedDragon/create-jacob.git"
   },
   "author": "Jacob McSwain <jacob.a.mcswain@gmail.com> (https://mcswain.dev/)",
   "license": "GPL-2.0-only",

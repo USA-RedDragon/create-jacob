@@ -1,5 +1,5 @@
-# create-jacob-app
+# create-jacob
 
 ## Usage
 
-`npm init jacob-app`
+`npm init jacob`
