@@ -1,6 +1,6 @@
 {
   "name": "create-jacob",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "main": "src/index.js",
   "module": "src/main.js",
   "bin": {
