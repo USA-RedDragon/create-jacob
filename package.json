@@ -4,7 +4,7 @@
   "main": "src/index.js",
   "module": "src/main.js",
   "bin": {
-    "create-jacob-app": "src/index.js",
+    "create-jacob-app": "src/index.js"
   },
   "scripts": {
     "start": "npm run start:dev",
