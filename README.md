@@ -2,4 +2,4 @@
 
 ## Usage
 
-`npm init jacob`
+`npm init jacob package-name` will create a folder called `package-name` with the new package.
