@@ -8,6 +8,10 @@
     "start:dev": "nodemon src/index.js",
     "lint": "./node_modules/.bin/eslint '**/*.js'",
     "lint:fix": "./node_modules/.bin/eslint '**/*.js' --fix",
+    "publish": "npm run publish:patch",
+    "publish:patch": "npm version patch && npm run publish",
+    "publish:minor": "npm version minor && npm publish",
+    "publish:major": "npm version major && npm publish",
     "sonar": "sonar-scanner ${SONAR_LOGIN}",
     "test": "nyc mocha test/**/*.js test/*.js"
   },
