@@ -12,6 +12,11 @@
     "test": "nyc mocha test/**/*.js test/*.js"
   },
   "keywords": [],
+  "homepage": "https://github.com/USA-RedDragon/create-jacob-app#readme",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/USA-RedDragon/create-jacob-app.git"
+  },
   "author": "Jacob McSwain <jacob.a.mcswain@gmail.com> (https://mcswain.dev/)",
   "license": "GPL-2.0-only",
   "description": "",
