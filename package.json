@@ -1,6 +1,6 @@
 {
   "name": "create-jacob-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
   "module": "src/main.js",
   "scripts": {
@@ -14,8 +14,8 @@
   "keywords": [],
   "homepage": "https://github.com/USA-RedDragon/create-jacob-app#readme",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/USA-RedDragon/create-jacob-app.git"
+    "type": "git",
+    "url": "https://github.com/USA-RedDragon/create-jacob-app.git"
   },
   "author": "Jacob McSwain <jacob.a.mcswain@gmail.com> (https://mcswain.dev/)",
   "license": "GPL-2.0-only",
